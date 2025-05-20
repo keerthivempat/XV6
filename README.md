@@ -35,4 +35,3 @@ make clean; make qemu SCHEDULER=LBS  # Lottery Based Scheduling
 make clean; make qemu SCHEDULER=MLFQ # Multi Level Feedback Queue
 ```
 
-Press Ctrl+P in XV6 to view process information for debugging.
